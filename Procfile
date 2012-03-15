@@ -1,0 +1,1 @@
+web: java -jar target/SAMPLEAPP-0.0.1-SNAPSHOT-war-exec.jar -httpPort $PORT
